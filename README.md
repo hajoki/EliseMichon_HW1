@@ -1,6 +1,6 @@
 # EliseMichon_HW1
 
-Note: these programs have been written in Python, with PyDev included in the IDE Eclipse on Windows
+Note: these programs have been written in Python 3, with PyDev included in the IDE Eclipse on Windows
 
 1_set_creation.py
 
