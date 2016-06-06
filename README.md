@@ -33,7 +33,7 @@ by
 
 # 18/03/16 First submission of EliseMichon_HW1
 
-Note: these programs have been written in Python 3, with PyDev included in the IDE Eclipse on Windows
+>> Note: We have three programs written in Python 3, with PyDev included in the IDE Eclipse on Windows
 
 1_set_creation.py
 
@@ -75,8 +75,8 @@ What it will do:
   assign an author and fill the confusion matrix
   return (confusion_matrix)
 
-Note:
-At the moment of writing the report, the algorithm was attributing all test files to a same class, the one which the higher class probability. At the moment of writing this readme, the algorithm seems to finally turn and attribute the test files to different classes, at a very slow pace. I will complete this section with the results of the night. 
+>> Note:
+At the moment of writing the report, the algorithm was attributing all test files to a same class, the one which the higher class probability. At the moment of writing this readme, the algorithm seems to finally turn and attribute the test files to different classes, at a very slow pace. 
 
 3_read_results.py
 
